@@ -1,0 +1,11 @@
+.color_list:hover{
+    background-color: rgb(15, 14, 14);
+}
+
+.hover-item {
+	background-color: #FFF;
+}
+
+.hover-item:hover {
+	background-color: inherit;
+}
